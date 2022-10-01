@@ -1,0 +1,22 @@
+2022-09-10 15:09:44,525 INFO com.djain.elk.ElkExampleApplication [main] Starting ElkExampleApplication using Java 17.0.4 on djain-hpx360 with PID 4280 (C:\Users\darsh\git\djain-elk\elk-example\target\classes started by darsh in C:\Users\darsh\git\djain-elk\elk-example)
+2022-09-10 15:09:44,530 INFO com.djain.elk.ElkExampleApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-10 15:09:45,910 INFO org.springframework.cloud.context.scope.GenericScope [main] BeanFactory id=4ee6479d-c6a0-34b9-9610-feffada1c957
+2022-09-10 15:09:46,938 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-09-10 15:09:46,959 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2022-09-10 15:09:46,959 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-09-10 15:09:47,192 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2022-09-10 15:09:47,192 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 2589 ms
+2022-09-10 15:09:50,808 INFO org.springframework.cloud.commons.util.InetUtils [main] Cannot determine local hostname
+2022-09-10 15:09:51,111 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-10 15:09:52,294 INFO org.springframework.cloud.commons.util.InetUtils [main] Cannot determine local hostname
+2022-09-10 15:09:52,317 INFO com.djain.elk.ElkExampleApplication [main] Started ElkExampleApplication in 10.195 seconds (JVM running for 11.338)
+2022-09-10 15:10:05,073 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-09-10 15:10:05,075 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-09-10 15:10:05,081 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Completed initialization in 4 ms
+2022-09-10 15:10:05,169 INFO com.djain.elk.controller.Controller [http-nio-8080-exec-1] hello controller called...
+2022-09-10 15:10:05,170 INFO com.djain.elk.controller.Controller [http-nio-8080-exec-1] Data is => Hello World! Sat Sep 10 15:10:05 IST 2022
+2022-09-10 15:13:14,103 INFO com.djain.elk.controller.Controller [http-nio-8080-exec-5] hello controller called...
+2022-09-10 15:13:14,104 INFO com.djain.elk.controller.Controller [http-nio-8080-exec-5] Data is => Hello World! Sat Sep 10 15:13:14 IST 2022
+2022-09-10 16:24:24,516 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(78)-127.0.0.1] Application shutdown requested.
+2022-09-10 16:24:24,553 INFO org.apache.catalina.core.StandardService [RMI TCP Connection(78)-127.0.0.1] Stopping service [Tomcat]
+2022-09-10 16:24:24,556 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [RMI TCP Connection(78)-127.0.0.1] Destroying Spring FrameworkServlet 'dispatcherServlet'

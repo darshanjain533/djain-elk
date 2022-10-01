@@ -1,0 +1,7 @@
+2022-09-10 14:07:40,034 DEBUG org.springframework.boot.devtools.restart.Restarter [File Watcher] Restarting application
+2022-09-10 14:07:40,050 DEBUG org.springframework.boot.devtools.restart.Restarter [Thread-9] Stopping application
+2022-09-10 14:07:40,051 DEBUG org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext [Thread-9] Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@21658861, started on Sat Sep 10 14:07:05 IST 2022
+2022-09-10 14:07:40,058 DEBUG org.springframework.jmx.export.annotation.AnnotationMBeanExporter [Thread-9] Unregistering JMX-exposed beans on shutdown
+2022-09-10 14:07:40,059 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-9] Shutting down ExecutorService 'applicationTaskExecutor'
+2022-09-10 14:07:40,492 DEBUG org.springframework.boot.devtools.restart.Restarter [Thread-9] Created RestartClassLoader org.springframework.boot.devtools.restart.classloader.RestartClassLoader@7c1c0b63
+2022-09-10 14:07:40,492 DEBUG org.springframework.boot.devtools.restart.Restarter [Thread-9] Starting application com.mkyong.StartWebApplication with URLs [file:/C:/Users/darsh/git/djain-elk/logging-slf4j-logback/target/classes/]
